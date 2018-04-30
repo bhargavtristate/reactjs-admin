@@ -1,0 +1,6 @@
+{
+  "name": "ComplainManagement",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./ComplainManagement.js"
+}

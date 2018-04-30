@@ -1,0 +1,6 @@
+{
+  "name": "Tasker",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Tasker.js"
+}

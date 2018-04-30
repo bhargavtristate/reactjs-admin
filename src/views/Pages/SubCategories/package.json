@@ -1,0 +1,6 @@
+{
+  "name": "SubCategories",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./SubCategories.js"
+}
